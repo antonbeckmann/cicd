@@ -6,4 +6,4 @@ image_resource:
   
 run:
  path: echo
- args: [hello world 3]
+ args: [hello world 8]
